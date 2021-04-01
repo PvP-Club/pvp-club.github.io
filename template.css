@@ -1,0 +1,18 @@
+* {
+    background-color: #121212;
+    color: #f3f3f3;
+}
+
+#headers {
+    text-align: center;
+    border: 1px solid #f3f3f3;
+}
+
+.infobar {
+    white-space: normal;
+}
+
+#content {
+    text-align: left;
+    padding: 50px;
+}
